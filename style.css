@@ -2,7 +2,7 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
-  background-color: rgb(100, 180, 200);
+  background-color: rgb(100, 180, 180);
 }
 
 .form {

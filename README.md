@@ -1,5 +1,5 @@
 # to-do-list
-<<- To-Do list ->> for entering task
+<<-- To-Do list -->> for entering task
 
 This to-do-list project using HTML, CSS, Bootstrap and Javascript. 
 
